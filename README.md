@@ -18,5 +18,18 @@
 - WHEN I refresh the page
 - THEN the saved events persist
 
+# Technologies Implemented
+- CSS
+- HTML
+- Bootstrap
+- Moment
+- Javascript
+
+# Live Deployed Page:
+https://ryanlopez12.github.io/work-day-scheduler/
+
 # Screenshot
 ![2022-01-23 18_46_55-Work Day Scheduler](https://user-images.githubusercontent.com/17996569/150713777-cb381701-64d9-4ac8-9086-e64150ee7fe8.png)
+
+# Challenges
+- Getting colors to show up properly
